@@ -26,5 +26,6 @@
     "App.tsx",
     "src",
     "jest.setup.ts"
-  ]
+  ],
+  "extends": "expo/tsconfig.base"
 }
